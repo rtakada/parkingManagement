@@ -65,3 +65,7 @@ button {
     width: 95%;
     margin: 0 auto;
 }
+
+.left{
+    text-align: left;
+}
